@@ -1,7 +1,7 @@
 # LanguageBuddy Crowdsourcing Platform for Language Translations
 
 Implementation includes experiment modes that innovates upon language translation crowdsourcing methodologies,
-Where the creation of custom datasets has been automated with [Flores](https://github.com/facebookresearch/flores?fbclid=IwAR0WzmQ-E64cstn1zmYBZJbGzNMXuK87hr_RatfAxle6gNbvVPJWDTtLJ6Y).
+Where the creation of custom datasets has been automated thru python scripts that make use of the [Flores Dataset](https://github.com/facebookresearch/flores?fbclid=IwAR0WzmQ-E64cstn1zmYBZJbGzNMXuK87hr_RatfAxle6gNbvVPJWDTtLJ6Y).
 
 ## Credits to
 
