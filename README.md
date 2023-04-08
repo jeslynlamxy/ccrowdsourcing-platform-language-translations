@@ -1,7 +1,7 @@
 # LanguageBuddy Crowdsourcing Platform for Language Translations
 
 Implementation includes experiment modes that innovates upon language translation crowdsourcing methodologies,
-Where the creation of custom datasets has been automated with [Flores](https://github.com/facebookresearch/flores?fbclid=IwAR0WzmQ-E64cstn1zmYBZJbGzNMXuK87hr_RatfAxle6gNbvVPJWDTtLJ6Y).
+Where the creation of custom datasets has been automated thru custom made python scripts that make use of the [Flores Dataset](https://github.com/facebookresearch/flores?fbclid=IwAR0WzmQ-E64cstn1zmYBZJbGzNMXuK87hr_RatfAxle6gNbvVPJWDTtLJ6Y).
 
 ## Credits to
 
@@ -21,8 +21,8 @@ Where the creation of custom datasets has been automated with [Flores](https://g
   - Easy to use
   - Based on the [Play Framework](https://www.playframework.com/)
   - Back-end is written in Java
-  - Completly typesave (typesave HTTP router and Scala based templates)
-  - (*Almost*) no need to use the Mechanical Turk API
+  - Completly typesave (Typesave HTTP Router and Scala-based Templates)
+  - *Almost* no need to use the Mechanical Turk API
   - Can easily be modified and extended
   
 ## Help
