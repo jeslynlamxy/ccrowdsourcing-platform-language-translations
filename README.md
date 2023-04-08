@@ -21,7 +21,7 @@ Where the creation of custom datasets has been automated thru custom made python
   - Easy to use
   - Based on the [Play Framework](https://www.playframework.com/)
   - Back-end is written in Java
-  - Completly typesave (typesave HTTP router and Scala based templates)
+  - Completly typesave (Typesave HTTP Router and Scala-based Templates)
   - (*Almost*) no need to use the Mechanical Turk API
   - Can easily be modified and extended
   
